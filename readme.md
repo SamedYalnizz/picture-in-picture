@@ -1,6 +1,6 @@
 # Web Screen Sharing
 
-This learning project is using picture in picture to enable screen, application or browser tab sharing.
+This learning project is using picture in picture to enable screen, application or browser tab sharing using the picture-in-picture Web API.
 
 ## Getting Started
 
